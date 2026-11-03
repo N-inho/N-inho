@@ -5,8 +5,6 @@ Now I'm interested in ML compilers, GPU computing, and optimization.
 
 ## 🔍 Interests
 
-## Interests
-
 ![ML Compilers](https://img.shields.io/badge/ML%20Compilers-746C9D?style=flat)
 ![GPU Computing](https://img.shields.io/badge/GPU%20Computing-5F8F7B?style=flat)
 ![Optimization](https://img.shields.io/badge/Optimization-6385A3?style=flat)
